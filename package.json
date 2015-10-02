@@ -1,0 +1,24 @@
+{
+  "name": "double-last",
+  "version": "1.0.0",
+  "description": "Doubles the last letter.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/double-last.git"
+  },
+  "keywords": [
+    "double",
+    "last",
+    "letter"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/double-last/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/double-last#readme"
+}
