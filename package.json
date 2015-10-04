@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/double-last/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/double-last#readme"
+  "homepage": "https://github.com/IonicaBizau/double-last#readme",
+  "dependencies": {
+    "last-char": "^1.0.0"
+  }
 }
