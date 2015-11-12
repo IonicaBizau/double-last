@@ -5,7 +5,7 @@ Doubles the last letter.
 ## Installation
 
 ```sh
-$ npm i -g double-last
+$ npm i double-last
 ```
 
 ## Example
