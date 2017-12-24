@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save double-last
+# Using npm
+npm install --save double-last
+
+# Using yarn
+yarn add double-last
 ```
 
 
