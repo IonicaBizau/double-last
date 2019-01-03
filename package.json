@@ -1,6 +1,6 @@
 {
   "name": "double-last",
-  "version": "1.3.11",
+  "version": "1.3.12",
   "description": "Doubles the last letter.",
   "main": "lib/index.js",
   "scripts": {
